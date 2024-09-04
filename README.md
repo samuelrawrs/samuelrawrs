@@ -3,8 +3,8 @@
 I am `Samuel Ang` and I'm a huge fan of problem-solving and robotics! 🤖 
 
 - 📚 **Education**: Bachelors & Masters at Nanyang Technological University, Singapore | GLOBE Student at UC Berkeley
-- 
 - ✅ **Goals**: Be more active in contributing to ROS2 repos 😎
+- 💼 Actively looking out for opportunities in the robotics space!
 
 Check out my [portfolio](https://samuel-ang.com/) to see some of my old projects!
 
