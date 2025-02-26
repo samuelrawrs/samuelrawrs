@@ -1,10 +1,10 @@
 ## hello friend! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32">
 
-I am `samuel` and I'm a systems engineer @ govtech singapore!
+I am `samuel` and I'm a systems engineer @ [govtech singapore](https://www.tech.gov.sg/)!
 
-📚 **Education**: Bachelors & Masters at Nanyang Technological University, Singapore | GLOBE Student at UC Berkeley
-✅ **Goals**: Being more active in contributing to open source repos 😎
-💼 **Career**: Always interested in discussing opportunities in the robotics space 🤖
+- 📚 **Education**: Bachelors & Masters at Nanyang Technological University, Singapore | GLOBE Student at UC Berkeley
+- ✅ **Goals**: Being more active in contributing to open source repos 😎
+- 💼 **Career**: Always interested in discussing opportunities in the robotics space 🤖
 
 ## Statistics 🧐
 <div align=center>
