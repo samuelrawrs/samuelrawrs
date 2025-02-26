@@ -1,12 +1,10 @@
 ## hello friend! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32">
 
-I am `samuel ang` and I'm a huge fan of problem-solving and robotics! 🤖 
+I am `samuel` and I'm a systems engineer @ govtech singapore!
 
-- 📚 **Education**: Bachelors & Masters at Nanyang Technological University, Singapore | GLOBE Student at UC Berkeley
-- ✅ **Goals**: Be more active in contributing to ROS2 repos 😎
-- 💼 Actively looking out for opportunities in the robotics space!
-
-Check out my [portfolio](https://samuel-ang.com/) to see some of my old projects!
+📚 **Education**: Bachelors & Masters at Nanyang Technological University, Singapore | GLOBE Student at UC Berkeley
+✅ **Goals**: Being more active in contributing to open source repos 😎
+💼 **Career**: Always interested in discussing opportunities in the robotics space 🤖
 
 ## Statistics 🧐
 <div align=center>
