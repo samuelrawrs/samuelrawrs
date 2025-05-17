@@ -2,15 +2,11 @@
 
 I am `samuel` and I'm a systems engineer @ [govtech singapore](https://www.tech.gov.sg/)!
 
-- 📚 **Education**: Bachelors & Masters at Nanyang Technological University, Singapore | GLOBE Student at UC Berkeley
+- 📚 **Education**: Bachelors & Masters @ Nanyang Technological University, Singapore / Student @ UC Berkeley
 - ✅ **Goals**: Being more active in contributing to open source repos 😎
 - 💼 **Career**: Always interested in discussing opportunities in the robotics space 🤖
 
-## Statistics 🧐
 <div align=center>
-  
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=samuelrawrs)](https://github.com/LordDashMe/github-contribution-stats/)
-  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/samuelrawrs)](http://linkedin.com/in/samuelrawrs)
 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/samuelrawrs)
